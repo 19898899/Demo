@@ -2,7 +2,17 @@
   "spider": "./custom_spider.jar;md5;ef5b03639f806c1dd6e86e93a742bc80",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
-    {
+   {
+			"key": "101影院11",
+			"name": "📽101影院",
+			"type": 3,
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 0,
+			"playerType": 2,
+			"api": "csp_a51CG"
+
+		},  {
       "key": "商店",
       "name": "商店",
       "type": 3,
